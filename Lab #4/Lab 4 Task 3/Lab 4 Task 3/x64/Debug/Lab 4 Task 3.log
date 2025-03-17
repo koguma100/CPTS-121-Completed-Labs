@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 3\Lab 4 Task 3\main.c(8,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  poop.c
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 3\Lab 4 Task 3\poop.c(12,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  Generating Code...
+  Lab 4 Task 3.vcxproj -> C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 3\x64\Debug\Lab 4 Task 3.exe

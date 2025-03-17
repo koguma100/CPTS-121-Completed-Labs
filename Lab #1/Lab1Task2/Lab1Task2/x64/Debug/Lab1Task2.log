@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab1Task2\Lab1Task2\main.c(38,9): warning C4476: 'printf' : unknown type field character '(' in format specifier
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab1Task2\Lab1Task2\main.c(38,9): warning C4477: 'printf' : format string '%lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  Lab1Task2.vcxproj -> C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab1Task2\x64\Debug\Lab1Task2.exe

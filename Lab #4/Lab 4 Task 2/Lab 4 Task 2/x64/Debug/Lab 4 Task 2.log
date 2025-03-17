@@ -1,0 +1,12 @@
+﻿  bonus.c
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\bonus.c(5,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  main.c
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,19): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,31): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,45): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,58): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,71): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\Lab 4 Task 2\main.c(5,83): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  Generating Code...
+  Lab 4 Task 2.vcxproj -> C:\Users\William\OneDrive\Desktop\College Work\CPTS 121\Lab 4 Task 2\x64\Debug\Lab 4 Task 2.exe

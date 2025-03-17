@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607B36E7-12DC-461A-82EE-3BCA75800EB3}|Lab 8 Task 1\\Lab 8 Task 1.vcxproj|C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{607B36E7-12DC-461A-82EE-3BCA75800EB3}|Lab 8 Task 1\\Lab 8 Task 1.vcxproj|solutionrelative:Lab 8 Task 1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607B36E7-12DC-461A-82EE-3BCA75800EB3}|Lab 8 Task 1\\Lab 8 Task 1.vcxproj|C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{607B36E7-12DC-461A-82EE-3BCA75800EB3}|Lab 8 Task 1\\Lab 8 Task 1.vcxproj|solutionrelative:Lab 8 Task 1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\input.txt",
+              "RelativeDocumentMoniker": "Lab 8 Task 1\\input.txt",
+              "ToolTip": "C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\input.txt",
+              "RelativeToolTip": "Lab 8 Task 1\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-06T21:59:11.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\main.c",
+              "RelativeDocumentMoniker": "Lab 8 Task 1\\main.c",
+              "ToolTip": "C:\\Users\\William\\OneDrive\\Desktop\\College Work\\2023-2024 (Freshman)\\2023-2024 First Semester\\CPTS 121\\Labs\\Lab #8\\Lab 8 Task 1\\Lab 8 Task 1\\main.c*",
+              "RelativeToolTip": "Lab 8 Task 1\\main.c*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-06T21:59:12.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

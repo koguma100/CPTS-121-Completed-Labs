@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDA7C1-9F69-42F4-9F22-165D5507F0C4}|Lab 5 Task 1\\Lab 5 Task 1.vcxproj|C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40EDA7C1-9F69-42F4-9F22-165D5507F0C4}|Lab 5 Task 1\\Lab 5 Task 1.vcxproj|solutionrelative:Lab 5 Task 1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EDA7C1-9F69-42F4-9F22-165D5507F0C4}|Lab 5 Task 1\\Lab 5 Task 1.vcxproj|C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40EDA7C1-9F69-42F4-9F22-165D5507F0C4}|Lab 5 Task 1\\Lab 5 Task 1.vcxproj|solutionrelative:Lab 5 Task 1\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.txt",
+              "DocumentMoniker": "C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\input.txt",
+              "RelativeDocumentMoniker": "Lab 5 Task 1\\input.txt",
+              "ToolTip": "C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\input.txt",
+              "RelativeToolTip": "Lab 5 Task 1\\input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-14T23:49:26.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\main.c",
+              "RelativeDocumentMoniker": "Lab 5 Task 1\\main.c",
+              "ToolTip": "C:\\Users\\William\\Documents\\CPTS-121-Completed-Labs\\Lab #6\\Lab 5 Task 1\\Lab 5 Task 1\\main.c",
+              "RelativeToolTip": "Lab 5 Task 1\\main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAE4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-14T23:49:26.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

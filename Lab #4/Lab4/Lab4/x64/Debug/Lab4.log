@@ -1,0 +1,6 @@
+﻿  calories.c
+  main.c
+  Generating Code...
+C:\Users\William\OneDrive\Desktop\College Work\2023-2024 (Freshman)\2023-2024 First Semester\CPTS 121\Labs\Lab #4\Lab4\Lab4\main.c(16,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+C:\Users\William\OneDrive\Desktop\College Work\2023-2024 (Freshman)\2023-2024 First Semester\CPTS 121\Labs\Lab #4\Lab4\Lab4\main.c(16,22): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [2]'
+  Lab4.vcxproj -> C:\Users\William\OneDrive\Desktop\College Work\2023-2024 (Freshman)\2023-2024 First Semester\CPTS 121\Labs\Lab #4\Lab4\x64\Debug\Lab4.exe
